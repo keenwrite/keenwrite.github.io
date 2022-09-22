@@ -1,3 +1,3 @@
 
-![images/logo/icon.png]
+![KeenWrite logo](images/logo/icon.png)
 
